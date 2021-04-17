@@ -30,7 +30,7 @@ Equip teams with a tool to improve and accelerate decision making in diagnosis s
 
 ## Data Engineering :
 ### Airflow 
-- data processing
+- data processing (cleaning labelling etc.)
 - data Augmentation
 - Splitting for later ML/DL Experimentation
 ## Machine Learning Engineering
@@ -48,7 +48,7 @@ Equip teams with a tool to improve and accelerate decision making in diagnosis s
 
 # Detailed Design
 
-_Another level of detail beyond the design overview, if needed._
+[backend pipeline](images/pipeline2.png)
 
 # Performance Implications
 
