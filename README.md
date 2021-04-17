@@ -48,7 +48,8 @@ Equip teams with a tool to improve and accelerate decision making in diagnosis s
 
 # Detailed Design
 
-[backend pipeline](images/pipeline2.png)
+## Backend Design
+![backend pipeline](images/pipeline2.png)
 
 # Performance Implications
 
